@@ -1,0 +1,455 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+.logo11 {
+  background-image: 
+  url(
+"/images/4.jpg");
+  display: grid;
+  /* background-color: #3b5998; */
+  /* grid-column: 3/3; */
+  justify-content: start;
+  background-position: 10%;
+  background-size: contain;
+  align-items: center;
+  display: inline-block;
+  height: 60px;
+  width: 150px;
+  background-repeat: no-repeat;
+  margin-left: -1%;
+}
+.logo
+{
+  display: grid;
+  /* background-color: #3b5998; */
+  /* grid-column: 3/3; */
+  justify-content: start;
+  background-position: 10%;
+  background-size: contain;
+  align-items: center;
+  display: inline-block;
+  height: 60px;
+  width: 150px;
+  background-repeat: no-repeat;
+  margin-left: -1%;
+}
+
+.logo h2 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  background: -webkit-linear-gradient(rgb(241, 3, 3), rgb(131, 130, 151));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.logo h2 span {
+  font-size: 3.5rem;
+}
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+ button{
+ 
+  background: #3d3726;
+ 
+  color: #b11b1b;
+  outline: none;
+  border: 2px solid rgb(131, 131, 131);
+  padding: 7px;
+
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+  font-size: large;
+  
+   
+  display: flex;
+  align-items: center;
+  
+  
+  @media screen and (max-width: 768px) {
+    display: none;
+    font: size 10px;
+    
+   
+  }
+  
+  
+} 
+button:hover {
+  background-color: rgb(170, 10, 10);
+}
+
+li{
+  color: #080101;
+}
+
+.nav-item
+{
+  color: black;
+  
+}
+
+
+.btn1 link{
+  color: #080101;
+}
+
+/* li{
+  padding: -0.2%;
+} */
+
+.reg{
+margin-left: 10px;
+}
+.login
+{
+  margin-left: 5px;
+}
+
+.F{
+  margin-left:- 2%;
+}
+
+.F1{
+  margin-left: -2%;
+}
+
+.F2{
+  margin-left: -2%;
+}
+
+.logo1
+{
+  /* align-content: center;
+  */
+  display: grid;
+  /* background-color: #3b5998; */
+  /* grid-column: 2/3; */
+  /* justify-content: start; */
+  align-items: stretch;
+  align-content: center;
+  margin-left: 40%;
+ 
+}
+
+
+
+.logo1 h2 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  background: -webkit-linear-gradient(rgb(241, 3, 3), rgb(131, 130, 151));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.logo1 h2 span {
+  font-size: 3.5rem;
+}
+
+/* .container {
+  background-image: 
+  url(
+"/images/1.jpeg");
+ height: 100%;
+ width: 100%;
+ backgroundRepeat: 'no-repeat',
+} */
+
+.img{
+  margin-left: -80px;
+  background-image: 
+  url(
+"/images/ah2.jpg");
+ height: 100%;
+ width:115%;
+ background-attachment: scroll; 
+}
+
+.contact{
+  margin-left: -75px;
+  background-image: 
+  url(
+"/images/contact.jpg");
+ height: 600px;
+ width:114%;
+ background-attachment: scroll; 
+ margin-top: -1.4%;
+ 
+}
+
+.contactform
+{
+  margin-left: 10%;
+margin-right: 10%;
+margin-left: 35%;
+
+}
+
+.login
+{
+  margin-left: -75px;
+  background-image: 
+  url(
+"/images/trans.jpg");
+ height: 565px;
+ width:114%;
+ background-attachment: scroll; 
+ margin-top: -1%;
+}
+
+.textlogin
+{
+  margin-right: 40%;
+  margin-top: 10%;
+  margin-left: 30%;
+}
+.a{
+  visibility: hidden;
+}
+
+.logininput
+{
+  width: 230px;
+}
+
+.loginlabel
+{
+  width: 100px;
+}
+
+.navbaradmin{
+  margin-left: 30%;
+  display: inline-flex;
+  margin-right: -50%;
+  
+}
+.adminbtn{
+  margin: 10px;
+  
+}
+
+.cropdetail
+{
+  margin-left: -75px;
+  background-image: 
+  url(
+"/images/15.jpg");
+ height: 100%;
+ width:114%;
+ background-attachment: scroll; 
+ margin-top: -1.4%;
+ 
+}
+
+.disease
+{
+  margin-left: -75px;
+  background-image: 
+  url(
+"/images/cd.jpg");
+ height: 100%;
+ width:114%;
+ background-attachment: scroll; 
+ margin-top: -1.4%;
+}
+.shopimage
+{
+  margin-left: -7.1%;
+  background-image: 
+  url(
+"/images/15.jpg");
+ height: 100%;
+ width:115%;
+ background-attachment: scroll; 
+ margin-top: -1.4%;
+}
+
+.driverhome
+{
+  margin-left: -7.1%;
+  background-image: 
+  url(
+"/images/15 - Copy.jpg");
+ height: 600px;
+ width:115%;
+ background-attachment: scroll; 
+ margin-top: -1.4%;
+}
+
+p:hover
+{
+color: red;
+}
+.shopimage1
+{
+  margin-left: -7.2%;
+  background-image: 
+  url(
+"/images/15.jpg");
+ height: 100%;
+ width:115%;
+ background-attachment: scroll; 
+ margin-top: -1.4%;
+}
+
+.adminhome
+{
+  margin-left: -6.5%;
+  background-image: 
+  url(
+"/images/ah2.jpg");
+ height: 100%;
+ width:115%;
+ background-attachment: scroll; 
+ margin-top: -1.4%;
+}
+
+
+
+.shoplistbyproduct
+{
+  color:aliceblue;
+  margin-left: -7.2%;
+  background-image: 
+  url(
+"/images/31.jpg");
+ height: 100%;
+ width:115%;
+ background-attachment: scroll; 
+ margin-top: -1.4%;
+}
+
+.disease
+{
+  
+  margin-left: -3%;
+  background-image: 
+  url(
+"/images/back1.jpg");
+ height: 100%;
+ width:106.3%;
+ background-attachment: scroll; 
+ margin-top: -1.4%;
+}
+
+.merchantlistbycity
+{
+  
+  margin-left: -7.2%;
+  background-image: 
+  url(
+"/images/trans.jpg");
+ height: 100%;
+ width:115%;
+ background-attachment: scroll; 
+ margin-top: -1.4%;
+}
+
+.driverlistbytaluka
+{
+  color:rgb(7, 10, 8);
+  margin-left: -6.4%;
+  background-image: 
+  url(
+"/images/trans.jpg");
+ height: 100%;
+ width:113%;
+ background-attachment: scroll; 
+ margin-top: -1.4%;
+}
+
+.driverreg
+{
+  color:rgb(5, 5, 4);
+  margin-left: -6.4%;
+  background-image: 
+  url(
+"/images/15.jpg");
+ height: 100%;
+ width:113%;
+ background-attachment: scroll; 
+ margin-top: -1.4%;
+}
+
+.users
+{
+  color:rgb(5, 5, 4);
+  margin-left: -6.4%;
+  background-image: 
+  url(
+"/images/ah2.jpg");
+ height: 600px;
+ width:113%;
+ background-attachment: scroll; 
+ margin-top: -1.4%;
+}
+
+.contacttable
+{
+  /* border: 2px solid black; */
+  border-radius: 20px;
+  margin-left: 25%;
+  width: 350px;
+  /* margin-top: 20%; */
+  align-items: center;
+  font-size: 15px;
+  /* background-color: burlywood;  */
+}
+
+.contacttable:hover
+{
+  border-radius: 2px solid rgb(5, 66, 38);
+  margin-left: 25%;
+  width: 500px;
+  height: 200px;
+  /* margin-top: 20%; */
+  align-items: center; 
+  font-size: 20px;
+  background-color: rgb(5, 136, 118);
+}
+
+.nav-link:hover
+{
+  animation: wiggle 0.5s;
+    background-color: rgb(6, 82, 3);
+}
+
+@keyframes wiggle
+{
+  25%
+  {
+    transform: scale(0.7,1.4);
+  }
+  50%
+  {
+    transform: scale(1.2,0.7);
+  }
+  50%
+  {
+    transform: scale(0.6,1.3);
+  }
+}
+
+.aboutus
+{
+  color:rgb(5, 5, 4);
+  margin-left: -6.4%;
+  background-image: 
+  url(
+"/images/ah2.jpg");
+ height: 600px;
+ width:113%;
+ background-attachment: scroll; 
+ margin-top: -1.4%;
+}
